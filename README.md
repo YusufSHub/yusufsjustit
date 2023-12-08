@@ -48,7 +48,7 @@
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
-<a href="mailto: ">  
+<a href="mailto:">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
