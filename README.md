@@ -10,7 +10,7 @@
 <b>Hi, My name is Yusuf. I am a data professional.<b> -->
 
 <p></p>
-<div align="center"> <h2 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h2> </div>
+<div align="center"> <h2 align="center"> 🤓 DATA ANALYSIS TOOLS 🤓 </h2> </div>
 
 <b>I have experience using these data analysis tools.<b>
 
@@ -25,7 +25,7 @@
 </p>
 
 
-<div align="center"> <h2 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h2> </div>
+<div align="center"> <h2 align="center"> 🙂 DATA VISUALIZATION 🙂 </h2> </div>
 
 <b>I have also experience using these data visualization tools.<b>
 
